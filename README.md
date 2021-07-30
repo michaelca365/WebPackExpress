@@ -2,7 +2,7 @@
 
 <h2> 1.  Instalacion de Webpack y babel </h2>
 
-* Para la instalación de Webpack se emplean los paquetes <code> npm i webpack </code>, el cual instala el paquete del core y <code>npm i  webpack-cli</code> el cual permite emplear wepack con la linea de comandos. 
+* Para la instalación de Webpack se emplean los paquetes <code> npm i webpack -D </code>, el cual instala el paquete del core y <code>npm i  webpack-cli -D</code> el cual permite emplear wepack con la linea de comandos. 
 * Para babel y su correcta implementación con webpack se emplean los paquetes <code> @babel/core @babel/preset-env babel-loader </code> El primero como su nombre lo indica instala todo el nucleo de babel, el segundo permite la implementación de ecmascript 6, y el tercero permite cargar babel en webpack para posteriormente poder transpilarlo
 
 <h2>2. Configurar Webpack</h2>
